@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kareemgamil
-- 👀 I’m interested in computational modeling of atomic systems using quantum mechanical-based calculations.
+- 👀 I’m interested in theoretical modeling of materials and interfaces using quantum mechanical-based calculations.
 - 📫 How to reach me: gameelka.227@gmail.com 
 
 <!---
